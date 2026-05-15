@@ -39,6 +39,8 @@ Users can play drum sounds using both keyboard keys and mouse clicks with smooth
 | C | Closed-HH |
 
 ---
+![Uploading image.png…]()
+
 
 
 
